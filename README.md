@@ -1,4 +1,5 @@
-# Experiment 17 - Basic-Charts-and-Visual-Encoding
+# Experiment 17 - Exploring statistical and Specialized Data Visualization Techniques
+
 ## Name - Falak Jain 
 ## PRN - 25070123047
 ## Batch - ENTC A3
